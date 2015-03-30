@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  i_name: MyString
+  i_assin: MyString
+  est_date: 2015-02-14 11:12:07
+  act_date: 2015-02-14 11:12:07
+
+two:
+  i_name: MyString
+  i_assin: MyString
+  est_date: 2015-02-14 11:12:07
+  act_date: 2015-02-14 11:12:07
